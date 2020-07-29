@@ -1,0 +1,10 @@
+@font-face {
+    src: url(fonts/Sora-Light.ttf);
+    font-family: sor;
+}
+
+.paragraph {
+    font-size: 16px;
+    line-height: 30px;
+    font-family: sor;
+}
